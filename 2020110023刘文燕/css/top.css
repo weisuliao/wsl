@@ -1,0 +1,30 @@
+@charset "UTF-8";
+#op1 {
+	height:100px;
+}
+img {
+	width:100%;
+	height:100%;
+}
+#op2 {
+	width:30%;
+	display:inline;
+	float:left;
+	boder:solid;
+	margin-right:10px;
+}
+#op3 {
+	font-family:宋体;
+	width:30%;
+	display:inline;
+	margin-left:80px;
+	float:left;
+}
+#op4 {
+	width:30%;
+	display:inline;
+	margin-left:10px;
+	float:right;
+	text-align:right;
+	vertical-align:bottom;
+}
